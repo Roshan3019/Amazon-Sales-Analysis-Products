@@ -14,7 +14,7 @@ The goal is to demonstrate the ability to:
 
 ## Dashboard Preview
 
-![Amazon Sales Dashboard](3_Dashboard_Exports/Sales%20Analysis%20Amazon%20Products.jpg)
+![Amazon Sales Dashboard](Dashboards/Sales%20Analysis%20Amazon%20Products.jpg)
 
 *Interactive Sales Analytics dashboard built using Microsoft Power BI*
 
