@@ -127,3 +127,13 @@ The Power BI dashboard presents:
 
 **Author**: Roshan Patel  
 **Focus Areas**: Sales Analytics, Business Intelligence, Power BI, Data Visualization
+
+---
+
+## Connect With Me
+
+If you’d like to discuss this project or collaborate:
+
+🔗 **LinkedIn**: https://www.linkedin.com/in/roshan-patel-2b4197317/    
+
+---
