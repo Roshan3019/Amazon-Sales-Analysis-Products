@@ -5,7 +5,6 @@
 ![Data Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-blue?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Focus-Business%20Intelligence-purple?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
-# Sales Analysis | Amazon Products
 
 ## Overview
 E-commerce businesses generate high-volume transactional and customer review data.  
